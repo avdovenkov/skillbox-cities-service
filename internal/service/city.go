@@ -1,8 +1,8 @@
 package service
 
 import (
-	cities "github.com/kuzminprog/cities_information_service"
-	"github.com/kuzminprog/cities_information_service/internal/repository"
+	cities "github.com/avdovenkov/skillbox-cities-service"
+	"github.com/avdovenkov/skillbox-cities-service/internal/repository"
 )
 
 type CityService struct {

@@ -1,8 +1,8 @@
 package handler
 
 import (
+	"github.com/avdovenkov/skillbox-cities-service/internal/service"
 	"github.com/go-chi/chi/v5"
-	"github.com/kuzminprog/cities_information_service/internal/service"
 )
 
 type Handler struct {

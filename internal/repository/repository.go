@@ -1,6 +1,6 @@
 package repository
 
-import cities "github.com/kuzminprog/cities_information_service"
+import cities "github.com/avdovenkov/skillbox-cities-service"
 
 type CityList interface {
 	Create(city cities.CityRequest) (string, error)

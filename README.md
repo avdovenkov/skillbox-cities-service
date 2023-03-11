@@ -37,11 +37,11 @@ csv:
 
 ```JSON
 {
-  "name": "Мармеладово",
-  "region": "Мармеладовая область",
-  "district": "Сказочный",
-  "population": 333757,
-  "foundation": 2022
+  "name": "Изумрудный",
+  "region": "Изумрудная область",
+  "district": "Изумруд",
+  "population": 666666,
+  "foundation": 2023
 }
 ```
 
@@ -56,7 +56,7 @@ csv:
 
 ```JSON
 {
-  "population": 1500000
+  "population": 66666666
 }
 ```
 

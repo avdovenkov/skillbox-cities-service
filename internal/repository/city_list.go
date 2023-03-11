@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	cities "github.com/kuzminprog/cities_information_service"
+	cities "github.com/avdovenkov/skillbox-cities-service"
 )
 
 type CityListDB struct {
