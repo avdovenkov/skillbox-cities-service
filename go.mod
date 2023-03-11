@@ -1,4 +1,4 @@
-module github.com/kuzminprog/cities_information_service
+module github.com/avdovenkov/skillbox-cities-service
 
 go 1.19
 
